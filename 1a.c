@@ -1,3 +1,5 @@
+1a. C program to demonstrate a simple calculator
+
 #include <stdio.h>
 
 int main() {
